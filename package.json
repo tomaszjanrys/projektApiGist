@@ -9,7 +9,7 @@
   "author": "tomek",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "github-api": "^3.3.0"
   }
 }
